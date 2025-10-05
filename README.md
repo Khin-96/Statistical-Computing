@@ -6,11 +6,11 @@ This repository contains our team's project with code written in Julia, Python, 
 
 ## Team Members
 
-1. Kinga Hinzano - 0704373903
-2. Khalid Abdikarim - [Phone Number]
-3. [Team Member 3 Name] - [Phone Number]
-4. [Team Member 4 Name] - [Phone Number]
-5. [Team Member 5 Name] - [Phone Number]
+1. Kinga Hinzano - BSCCS/2023/62081
+2. Khalid Abdikarim - []
+3. [Team Member 3 Name] - []
+4. [Team Member 4 Name] - []
+5. [Team Member 5 Name] - []
 
 ## Repository Structure
 
