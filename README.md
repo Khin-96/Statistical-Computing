@@ -30,17 +30,17 @@ This project demonstrates the use of three programming languages:
 ### Python Code
 ```bash
 cd python
-python presentation1.py
+python "name".py
 ```
 
 ### Julia Code
 ```bash
 cd julia
-julia presentation2.jl
+julia "name".jl
 ```
 
 ### R Code
 ```bash
 cd R
-Rscript presentation3.R
+Rscript "name".R
 ```
