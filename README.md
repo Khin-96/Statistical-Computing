@@ -29,18 +29,18 @@ This project demonstrates the use of three programming languages:
 
 ### Python Code
 ```bash
-cd folder_one
+cd python
 python presentation1.py
 ```
 
 ### Julia Code
 ```bash
-cd folder_two
+cd julia
 julia presentation2.jl
 ```
 
 ### R Code
 ```bash
-cd folder_three
+cd R
 Rscript presentation3.R
 ```
