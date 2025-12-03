@@ -7,10 +7,10 @@ This repository contains our team's project with code written in Julia, Python, 
 ## Team Members
 
 1. Kinga Hinzano - BSCCS/2023/62081
-2. Khalid Abdikarim - []
+2. Khalid Abdikarim - BSCCS/2023/67547
 3. Zakaria Suleiman - BSCCS/2023/62907
-4. Abdirahman Mohamud - BSCCS/202362907
-5. [Team Member 5 Name] - []
+4. Abdirahman Mohamud - BSCCS/2023/62907
+5. [Team Member 5 Name] - []..
 
 ## Repository Structure
 
