@@ -1,5 +1,6 @@
 # Python
 def remainder(a, b):
     return a % b
-
-print(remainder(17, 5))  # Output: 2
+    
+#Expected Output: 2
+print(remainder(17, 5))  #    Output: 2
